@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite">
+	<parameter name="browser" value="chrome" />
+	<test name="LoginIntoLinkedin" preserve-order="true" parallel="false">
+		<classes>
+			<class name="tests.LoginIntoLinkedin" />
+		</classes>
+	</test> <!-- test -->
+
+	<test name="ForgetPassword" preserve-order="true" parallel="false">
+		<classes>
+			<class name="tests.ForgetPassword" />
+		</classes>
+	</test> <!-- test -->
+
+	<test name="UpdateProfile" preserve-order="true" parallel="false">
+		<classes>
+			<class name="tests.UpdateProfile" />
+		</classes>
+	</test> <!-- test -->
+
+</suite> <!-- suite -->
