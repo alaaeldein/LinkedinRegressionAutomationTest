@@ -12,7 +12,7 @@ Regression test for linkedin using Selenium WebDriver, java, TestNG, Maven, POM 
     - Update courses section in profile.
     
     
-# Tech Stach:
+# Tech Stack:
 - Java.
 - Selenium WebDriver.
 - TestNG.
