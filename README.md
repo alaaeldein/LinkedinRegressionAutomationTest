@@ -25,7 +25,7 @@ Regression test for linkedin using Selenium WebDriver, java, TestNG, Maven, POM 
 
 
 # To run this project:
-- Download it.
+- Clone it.
 - Open this project using your IDE (ex, eclipse).
 - Open pom.xml file and click save to download all dependencies.
 - Open cmd and change dir to project folder.
